@@ -1,0 +1,55 @@
+.gradient-background {
+    background: linear-gradient(300deg, #543A14, #FFF0DC, #F0BB78);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+.display-5 {
+    font-family: Tangerine, serif;
+    font-size: 7rem;
+    
+    color: #543A14;
+}
+
+.subtitle {
+    font-family: "Cagliostro", serif;;
+    color: #543A14;
+    font-weight: 900;
+   
+    
+}
+.dee {
+  border-radius: 50%;
+  border: #543A14 2px solid;
+}
+ 
+  .btn {
+    font-family: Charm, serif;
+    font-weight: bold;
+    color: #543A14;
+  }
+  h2{
+    font-family: Tangerine, serif;
+    font-size: 5rem;
+    font-weight: 900;
+    color: #543A14;
+  }
+ .about-me {
+  background-color: #FFF0DC;
+ }
+ h3{
+  font-family: "merriweather sans", serif;
+    font-weight: bold;
+    color: #543A14;
+ }
+ p{
+  font-family: "Cagliostro", serif;
+    color: #543A14;
+    font-weight: 900;
+ }
+ .contact {
+  background-color: #543A14;
+  
+ }
+ .white {
+  color: #FFF0DC;
+ }
